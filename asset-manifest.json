@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ble-led-controller-web/static/css/main.67d1e763.css",
-    "main.js": "/ble-led-controller-web/static/js/main.94071f99.js",
+    "main.css": "/ble-led-controller-web/static/css/main.c281652a.css",
+    "main.js": "/ble-led-controller-web/static/js/main.4a3daeaa.js",
     "static/js/399.490865ce.chunk.js": "/ble-led-controller-web/static/js/399.490865ce.chunk.js",
     "index.html": "/ble-led-controller-web/index.html",
-    "main.67d1e763.css.map": "/ble-led-controller-web/static/css/main.67d1e763.css.map",
-    "main.94071f99.js.map": "/ble-led-controller-web/static/js/main.94071f99.js.map",
+    "main.c281652a.css.map": "/ble-led-controller-web/static/css/main.c281652a.css.map",
+    "main.4a3daeaa.js.map": "/ble-led-controller-web/static/js/main.4a3daeaa.js.map",
     "399.490865ce.chunk.js.map": "/ble-led-controller-web/static/js/399.490865ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.67d1e763.css",
-    "static/js/main.94071f99.js"
+    "static/css/main.c281652a.css",
+    "static/js/main.4a3daeaa.js"
   ]
 }
